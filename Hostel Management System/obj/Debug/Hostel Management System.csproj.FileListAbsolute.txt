@@ -1,0 +1,205 @@
+D:\Projects\Latest\Sai Kiran\Hostel Management System\Hostel Management System\bin\Debug\Hostel Management System.exe.config
+D:\Projects\Latest\Sai Kiran\Hostel Management System\Hostel Management System\bin\Debug\Hostel Management System.exe
+D:\Projects\Latest\Sai Kiran\Hostel Management System\Hostel Management System\bin\Debug\Hostel Management System.pdb
+D:\Projects\Latest\Sai Kiran\Hostel Management System\Hostel Management System\obj\Debug\Hostel Management System.csprojResolveAssemblyReference.cache
+D:\Projects\Latest\Sai Kiran\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.Add_Students.resources
+D:\Projects\Latest\Sai Kiran\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.Properties.Resources.resources
+D:\Projects\Latest\Sai Kiran\Hostel Management System\Hostel Management System\obj\Debug\Hostel Management System.csproj.GenerateResource.Cache
+D:\Projects\Latest\Sai Kiran\Hostel Management System\Hostel Management System\obj\Debug\Hostel Management System.exe
+D:\Projects\Latest\Sai Kiran\Hostel Management System\Hostel Management System\obj\Debug\Hostel Management System.pdb
+D:\Projects\Latest\Sai Kiran\Hostel Management System\Hostel Management System\bin\Debug\Hms_BusinessLogic_Layer.dll
+D:\Projects\Latest\Sai Kiran\Hostel Management System\Hostel Management System\bin\Debug\Hms_BusinessLogic_Layer.pdb
+D:\Projects\Latest\Sai Kiran\Hostel Management System\Hostel Management System\bin\Debug\Hms_DataAccess_Layer.dll
+D:\Projects\Latest\Sai Kiran\Hostel Management System\Hostel Management System\bin\Debug\Hms_DataAccess_Layer.pdb
+D:\Projects\Latest\Sai Kiran\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.MainForm.resources
+D:\Projects\Latest\Sai Kiran\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.View_Student_Details.resources
+D:\Projects\Latest\Sai Kiran\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.Payments.resources
+D:\Projects\Latest\Sai Kiran\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.View_Payment_Details.resources
+D:\Projects\Latest\Sai Kiran\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.Login.resources
+D:\Projects\Latest\Sai Kiran\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.Payment_History.resources
+D:\Projects\Latest\Sai Kiran\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.Personal_Details.resources
+D:\Projects\Latest\Sai Kiran\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.Student_Main_Form.resources
+D:\Projects\Latest\Sai Kiran\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.Student_Payment.resources
+D:\Projects\Latest\Sai Kiran\Hostel Management System\Hostel Management System\bin\Debug\Database1.mdf
+D:\Projects\Latest\Sai Kiran\Hostel Management System\Hostel Management System\bin\Debug\Database1_log.ldf
+C:\Users\Nikesh\Downloads\Hostel Management System\Hostel Management System\bin\Debug\Hostel Management System.exe.config
+C:\Users\Nikesh\Downloads\Hostel Management System\Hostel Management System\bin\Debug\Hostel Management System.exe
+C:\Users\Nikesh\Downloads\Hostel Management System\Hostel Management System\bin\Debug\Hostel Management System.pdb
+C:\Users\Nikesh\Downloads\Hostel Management System\Hostel Management System\bin\Debug\Hms_BusinessLogic_Layer.dll
+C:\Users\Nikesh\Downloads\Hostel Management System\Hostel Management System\bin\Debug\Hms_DataAccess_Layer.dll
+C:\Users\Nikesh\Downloads\Hostel Management System\Hostel Management System\bin\Debug\Hms_BusinessLogic_Layer.pdb
+C:\Users\Nikesh\Downloads\Hostel Management System\Hostel Management System\bin\Debug\Hms_DataAccess_Layer.pdb
+C:\Users\Nikesh\Downloads\Hostel Management System\Hostel Management System\obj\Debug\Hostel Management System.csprojResolveAssemblyReference.cache
+C:\Users\Nikesh\Downloads\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.Add_Students.resources
+C:\Users\Nikesh\Downloads\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.Login.resources
+C:\Users\Nikesh\Downloads\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.MainForm.resources
+C:\Users\Nikesh\Downloads\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.Payment_History.resources
+C:\Users\Nikesh\Downloads\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.Payments.resources
+C:\Users\Nikesh\Downloads\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.Personal_Details.resources
+C:\Users\Nikesh\Downloads\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.Properties.Resources.resources
+C:\Users\Nikesh\Downloads\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.Student_Main_Form.resources
+C:\Users\Nikesh\Downloads\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.Student_Payment.resources
+C:\Users\Nikesh\Downloads\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.View_Payment_Details.resources
+C:\Users\Nikesh\Downloads\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.View_Student_Details.resources
+C:\Users\Nikesh\Downloads\Hostel Management System\Hostel Management System\obj\Debug\Hostel Management System.csproj.GenerateResource.Cache
+C:\Users\Nikesh\Downloads\Hostel Management System\Hostel Management System\obj\Debug\Hostel Management System.exe
+C:\Users\Nikesh\Downloads\Hostel Management System\Hostel Management System\obj\Debug\Hostel Management System.pdb
+D:\Hostel Management System\Hostel Management System\bin\Debug\Database1.mdf
+D:\Hostel Management System\Hostel Management System\bin\Debug\Database1_log.ldf
+D:\Hostel Management System\Hostel Management System\bin\Debug\Hostel Management System.exe.config
+D:\Hostel Management System\Hostel Management System\bin\Debug\Hostel Management System.exe
+D:\Hostel Management System\Hostel Management System\bin\Debug\Hostel Management System.pdb
+D:\Hostel Management System\Hostel Management System\bin\Debug\Hms_BusinessLogic_Layer.dll
+D:\Hostel Management System\Hostel Management System\bin\Debug\Hms_DataAccess_Layer.dll
+D:\Hostel Management System\Hostel Management System\bin\Debug\EntityFramework.dll
+D:\Hostel Management System\Hostel Management System\bin\Debug\Hms_BusinessLogic_Layer.pdb
+D:\Hostel Management System\Hostel Management System\bin\Debug\Hms_DataAccess_Layer.pdb
+D:\Hostel Management System\Hostel Management System\bin\Debug\EntityFramework.xml
+D:\Hostel Management System\Hostel Management System\obj\Debug\Hostel Management System.csprojResolveAssemblyReference.cache
+D:\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.Add_Students.resources
+D:\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.Login.resources
+D:\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.MainForm.resources
+D:\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.Payment_History.resources
+D:\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.Payments.resources
+D:\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.Personal_Details.resources
+D:\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.Properties.Resources.resources
+D:\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.Student_Main_Form.resources
+D:\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.Student_Payment.resources
+D:\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.View_Payment_Details.resources
+D:\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.View_Student_Details.resources
+D:\Hostel Management System\Hostel Management System\obj\Debug\Hostel Management System.csproj.GenerateResource.Cache
+D:\Hostel Management System\Hostel Management System\obj\Debug\Hostel Management System.exe
+D:\Hostel Management System\Hostel Management System\obj\Debug\Hostel Management System.pdb
+D:\New folder\Hostel Management System\Hostel Management System\bin\Debug\Hostel Management System.exe.config
+D:\New folder\Hostel Management System\Hostel Management System\obj\Debug\Hostel Management System.exe
+D:\New folder\Hostel Management System\Hostel Management System\obj\Debug\Hostel Management System.pdb
+D:\New folder\Hostel Management System\Hostel Management System\bin\Debug\Database1.mdf
+D:\New folder\Hostel Management System\Hostel Management System\bin\Debug\Database1_log.ldf
+D:\New folder\Hostel Management System\Hostel Management System\bin\Debug\Hostel Management System.exe
+D:\New folder\Hostel Management System\Hostel Management System\bin\Debug\Hostel Management System.pdb
+D:\New folder\Hostel Management System\Hostel Management System\bin\Debug\Hms_BusinessLogic_Layer.dll
+D:\New folder\Hostel Management System\Hostel Management System\bin\Debug\Hms_DataAccess_Layer.dll
+D:\New folder\Hostel Management System\Hostel Management System\bin\Debug\EntityFramework.dll
+D:\New folder\Hostel Management System\Hostel Management System\bin\Debug\Hms_BusinessLogic_Layer.pdb
+D:\New folder\Hostel Management System\Hostel Management System\bin\Debug\Hms_DataAccess_Layer.pdb
+D:\New folder\Hostel Management System\Hostel Management System\bin\Debug\EntityFramework.xml
+D:\New folder\Hostel Management System\Hostel Management System\obj\Debug\Hostel Management System.csprojResolveAssemblyReference.cache
+D:\New folder\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.Add_Students.resources
+D:\New folder\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.Login.resources
+D:\New folder\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.MainForm.resources
+D:\New folder\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.Payment_History.resources
+D:\New folder\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.Payments.resources
+D:\New folder\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.Personal_Details.resources
+D:\New folder\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.Properties.Resources.resources
+D:\New folder\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.Student_Main_Form.resources
+D:\New folder\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.Student_Payment.resources
+D:\New folder\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.View_Payment_Details.resources
+D:\New folder\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.View_Student_Details.resources
+D:\New folder\Hostel Management System\Hostel Management System\obj\Debug\Hostel Management System.csproj.GenerateResource.Cache
+D:\Project\Hostel Management System\Hostel Management System\bin\Debug\Hostel Management System.exe.config
+D:\Project\Hostel Management System\Hostel Management System\obj\Debug\Hostel Management System.exe
+D:\Project\Hostel Management System\Hostel Management System\obj\Debug\Hostel Management System.pdb
+D:\Project\Hostel Management System\Hostel Management System\bin\Debug\Database1.mdf
+D:\Project\Hostel Management System\Hostel Management System\bin\Debug\Database1_log.ldf
+D:\Project\Hostel Management System\Hostel Management System\bin\Debug\Hostel Management System.exe
+D:\Project\Hostel Management System\Hostel Management System\bin\Debug\Hostel Management System.pdb
+D:\Project\Hostel Management System\Hostel Management System\bin\Debug\Hms_BusinessLogic_Layer.dll
+D:\Project\Hostel Management System\Hostel Management System\bin\Debug\Hms_DataAccess_Layer.dll
+D:\Project\Hostel Management System\Hostel Management System\bin\Debug\EntityFramework.dll
+D:\Project\Hostel Management System\Hostel Management System\bin\Debug\Hms_BusinessLogic_Layer.pdb
+D:\Project\Hostel Management System\Hostel Management System\bin\Debug\Hms_DataAccess_Layer.pdb
+D:\Project\Hostel Management System\Hostel Management System\bin\Debug\EntityFramework.xml
+D:\Project\Hostel Management System\Hostel Management System\obj\Debug\Hostel Management System.csprojResolveAssemblyReference.cache
+D:\Project\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.Add_Students.resources
+D:\Project\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.Login.resources
+D:\Project\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.MainForm.resources
+D:\Project\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.Payment_History.resources
+D:\Project\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.Payments.resources
+D:\Project\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.Personal_Details.resources
+D:\Project\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.Properties.Resources.resources
+D:\Project\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.Student_Main_Form.resources
+D:\Project\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.Student_Payment.resources
+D:\Project\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.View_Payment_Details.resources
+D:\Project\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.View_Student_Details.resources
+D:\Project\Hostel Management System\Hostel Management System\obj\Debug\Hostel Management System.csproj.GenerateResource.Cache
+C:\Users\Nikesh\Desktop\Hostel Management System\Hostel Management System\bin\Debug\Hostel Management System.exe.config
+C:\Users\Nikesh\Desktop\Hostel Management System\Hostel Management System\obj\Debug\Hostel Management System.exe
+C:\Users\Nikesh\Desktop\Hostel Management System\Hostel Management System\obj\Debug\Hostel Management System.pdb
+C:\Users\Nikesh\Desktop\Hostel Management System\Hostel Management System\bin\Debug\Database1.mdf
+C:\Users\Nikesh\Desktop\Hostel Management System\Hostel Management System\bin\Debug\Database1_log.ldf
+C:\Users\Nikesh\Desktop\Hostel Management System\Hostel Management System\bin\Debug\Hostel Management System.exe
+C:\Users\Nikesh\Desktop\Hostel Management System\Hostel Management System\bin\Debug\Hostel Management System.pdb
+C:\Users\Nikesh\Desktop\Hostel Management System\Hostel Management System\bin\Debug\Hms_BusinessLogic_Layer.dll
+C:\Users\Nikesh\Desktop\Hostel Management System\Hostel Management System\bin\Debug\Hms_DataAccess_Layer.dll
+C:\Users\Nikesh\Desktop\Hostel Management System\Hostel Management System\bin\Debug\EntityFramework.dll
+C:\Users\Nikesh\Desktop\Hostel Management System\Hostel Management System\bin\Debug\Hms_BusinessLogic_Layer.pdb
+C:\Users\Nikesh\Desktop\Hostel Management System\Hostel Management System\bin\Debug\Hms_DataAccess_Layer.pdb
+C:\Users\Nikesh\Desktop\Hostel Management System\Hostel Management System\bin\Debug\EntityFramework.xml
+C:\Users\Nikesh\Desktop\Hostel Management System\Hostel Management System\obj\Debug\Hostel Management System.csprojResolveAssemblyReference.cache
+C:\Users\Nikesh\Desktop\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.Add_Students.resources
+C:\Users\Nikesh\Desktop\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.Login.resources
+C:\Users\Nikesh\Desktop\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.MainForm.resources
+C:\Users\Nikesh\Desktop\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.Payment_History.resources
+C:\Users\Nikesh\Desktop\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.Payments.resources
+C:\Users\Nikesh\Desktop\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.Personal_Details.resources
+C:\Users\Nikesh\Desktop\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.Properties.Resources.resources
+C:\Users\Nikesh\Desktop\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.Student_Main_Form.resources
+C:\Users\Nikesh\Desktop\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.Student_Payment.resources
+C:\Users\Nikesh\Desktop\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.View_Payment_Details.resources
+C:\Users\Nikesh\Desktop\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.View_Student_Details.resources
+C:\Users\Nikesh\Desktop\Hostel Management System\Hostel Management System\obj\Debug\Hostel Management System.csproj.GenerateResource.Cache
+E:\study\C#\projects\Hostel Mange\Hostel Management System\Hostel Management System\bin\Debug\Database1.mdf
+E:\study\C#\projects\Hostel Mange\Hostel Management System\Hostel Management System\bin\Debug\Database1_log.ldf
+E:\study\C#\projects\Hostel Mange\Hostel Management System\Hostel Management System\bin\Debug\Hostel Management System.exe.config
+E:\study\C#\projects\Hostel Mange\Hostel Management System\Hostel Management System\bin\Debug\Hostel Management System.exe
+E:\study\C#\projects\Hostel Mange\Hostel Management System\Hostel Management System\bin\Debug\Hostel Management System.pdb
+E:\study\C#\projects\Hostel Mange\Hostel Management System\Hostel Management System\bin\Debug\Hms_BusinessLogic_Layer.dll
+E:\study\C#\projects\Hostel Mange\Hostel Management System\Hostel Management System\bin\Debug\Hms_DataAccess_Layer.dll
+E:\study\C#\projects\Hostel Mange\Hostel Management System\Hostel Management System\bin\Debug\EntityFramework.dll
+E:\study\C#\projects\Hostel Mange\Hostel Management System\Hostel Management System\bin\Debug\Hms_BusinessLogic_Layer.pdb
+E:\study\C#\projects\Hostel Mange\Hostel Management System\Hostel Management System\bin\Debug\Hms_DataAccess_Layer.pdb
+E:\study\C#\projects\Hostel Mange\Hostel Management System\Hostel Management System\bin\Debug\EntityFramework.xml
+E:\study\C#\projects\Hostel Mange\Hostel Management System\Hostel Management System\obj\Debug\Hostel Management System.csprojResolveAssemblyReference.cache
+E:\study\C#\projects\Hostel Mange\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.Add_Students.resources
+E:\study\C#\projects\Hostel Mange\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.Login.resources
+E:\study\C#\projects\Hostel Mange\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.MainForm.resources
+E:\study\C#\projects\Hostel Mange\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.Payment_History.resources
+E:\study\C#\projects\Hostel Mange\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.Payments.resources
+E:\study\C#\projects\Hostel Mange\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.Personal_Details.resources
+E:\study\C#\projects\Hostel Mange\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.Properties.Resources.resources
+E:\study\C#\projects\Hostel Mange\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.Student_Main_Form.resources
+E:\study\C#\projects\Hostel Mange\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.Student_Payment.resources
+E:\study\C#\projects\Hostel Mange\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.View_Payment_Details.resources
+E:\study\C#\projects\Hostel Mange\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.View_Student_Details.resources
+E:\study\C#\projects\Hostel Mange\Hostel Management System\Hostel Management System\obj\Debug\Hostel Management System.csproj.GenerateResource.Cache
+E:\study\C#\projects\Hostel Mange\Hostel Management System\Hostel Management System\obj\Debug\Hostel Management System.exe
+E:\study\C#\projects\Hostel Mange\Hostel Management System\Hostel Management System\obj\Debug\Hostel Management System.pdb
+E:\study\C#\projects\Hostel Mange\team 3\Hostel Management System\Hostel Management System\bin\Debug\Hostel Management System.exe.config
+E:\study\C#\projects\Hostel Mange\team 3\Hostel Management System\Hostel Management System\obj\Debug\Hostel Management System.exe
+E:\study\C#\projects\Hostel Mange\team 3\Hostel Management System\Hostel Management System\obj\Debug\Hostel Management System.pdb
+D:\Hamza Documents\NED\FESE\Semester 2\OOP\Project\Hostel-Management-System-master\Hostel Management System\Hostel Management System\bin\Debug\Hostel Management System.exe.config
+D:\Hamza Documents\NED\FESE\Semester 2\OOP\Project\Hostel-Management-System-master\Hostel Management System\Hostel Management System\obj\Debug\Hostel Management System.exe
+D:\Hamza Documents\NED\FESE\Semester 2\OOP\Project\Hostel-Management-System-master\Hostel Management System\Hostel Management System\obj\Debug\Hostel Management System.pdb
+D:\Hamza Documents\NED\FESE\Semester 2\OOP\Project\Hostel-Management-System-master\Hostel Management System\Hostel Management System\bin\Debug\Database1.mdf
+D:\Hamza Documents\NED\FESE\Semester 2\OOP\Project\Hostel-Management-System-master\Hostel Management System\Hostel Management System\bin\Debug\Database1_log.ldf
+D:\Hamza Documents\NED\FESE\Semester 2\OOP\Project\Hostel-Management-System-master\Hostel Management System\Hostel Management System\bin\Debug\Hostel Management System.exe
+D:\Hamza Documents\NED\FESE\Semester 2\OOP\Project\Hostel-Management-System-master\Hostel Management System\Hostel Management System\bin\Debug\Hostel Management System.pdb
+D:\Hamza Documents\NED\FESE\Semester 2\OOP\Project\Hostel-Management-System-master\Hostel Management System\Hostel Management System\bin\Debug\Hms_BusinessLogic_Layer.dll
+D:\Hamza Documents\NED\FESE\Semester 2\OOP\Project\Hostel-Management-System-master\Hostel Management System\Hostel Management System\bin\Debug\Hms_DataAccess_Layer.dll
+D:\Hamza Documents\NED\FESE\Semester 2\OOP\Project\Hostel-Management-System-master\Hostel Management System\Hostel Management System\bin\Debug\EntityFramework.dll
+D:\Hamza Documents\NED\FESE\Semester 2\OOP\Project\Hostel-Management-System-master\Hostel Management System\Hostel Management System\bin\Debug\Hms_BusinessLogic_Layer.pdb
+D:\Hamza Documents\NED\FESE\Semester 2\OOP\Project\Hostel-Management-System-master\Hostel Management System\Hostel Management System\bin\Debug\Hms_DataAccess_Layer.pdb
+D:\Hamza Documents\NED\FESE\Semester 2\OOP\Project\Hostel-Management-System-master\Hostel Management System\Hostel Management System\bin\Debug\EntityFramework.xml
+D:\Hamza Documents\NED\FESE\Semester 2\OOP\Project\Hostel-Management-System-master\Hostel Management System\Hostel Management System\obj\Debug\Hostel Management System.csprojResolveAssemblyReference.cache
+D:\Hamza Documents\NED\FESE\Semester 2\OOP\Project\Hostel-Management-System-master\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.Add_Students.resources
+D:\Hamza Documents\NED\FESE\Semester 2\OOP\Project\Hostel-Management-System-master\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.Login.resources
+D:\Hamza Documents\NED\FESE\Semester 2\OOP\Project\Hostel-Management-System-master\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.MainForm.resources
+D:\Hamza Documents\NED\FESE\Semester 2\OOP\Project\Hostel-Management-System-master\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.Payment_History.resources
+D:\Hamza Documents\NED\FESE\Semester 2\OOP\Project\Hostel-Management-System-master\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.Payments.resources
+D:\Hamza Documents\NED\FESE\Semester 2\OOP\Project\Hostel-Management-System-master\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.Personal_Details.resources
+D:\Hamza Documents\NED\FESE\Semester 2\OOP\Project\Hostel-Management-System-master\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.Properties.Resources.resources
+D:\Hamza Documents\NED\FESE\Semester 2\OOP\Project\Hostel-Management-System-master\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.Student_Main_Form.resources
+D:\Hamza Documents\NED\FESE\Semester 2\OOP\Project\Hostel-Management-System-master\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.Student_Payment.resources
+D:\Hamza Documents\NED\FESE\Semester 2\OOP\Project\Hostel-Management-System-master\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.View_Payment_Details.resources
+D:\Hamza Documents\NED\FESE\Semester 2\OOP\Project\Hostel-Management-System-master\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.View_Student_Details.resources
+D:\Hamza Documents\NED\FESE\Semester 2\OOP\Project\Hostel-Management-System-master\Hostel Management System\Hostel Management System\obj\Debug\Hostel Management System.csproj.GenerateResource.Cache
